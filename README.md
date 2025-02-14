@@ -2,7 +2,7 @@
 
 Le jeu de données comprend des détails démographiques, des facteurs liés au mode de vie, des antécédents médicaux, des mesures cliniques, des évaluations cognitives et fonctionnelles, des symptômes et un diagnostic de la maladie d'Alzheimer.
 
-L'objectif du projet est de prédire à partir de certains attributs si un patient est alzheimer.
+L'objectif du projet est de prédire à partir de certains attributs si un patient a l'alzheimer.
 
 Définition des champs du jeu de données : 
 
