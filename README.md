@@ -9,16 +9,16 @@ Définition des champs du jeu de données :
 - PatientID : identifiant unique attribué à chaque patient  
 - Age: âge des patients  
 - Gender : sexe des patients, où 0 représente un homme et 1 représente une femme  
-- Ethnicity: origine ethnique des patients  
-0: Caucasian  
-1: African American  
-2: Asian  
-3: Other  
+- Ethnicity : origine ethnique des patients  
+0 : Caucasian  
+1 : African American  
+2 : Asian  
+3 : Other  
 - EducationLevel : niveau d'éducation des patients  
-0: None  
-1: High School  
-2: Bachelor's  
-3: Higher  
+0 : None  
+1 : High School  
+2 : Bachelor's  
+3 : Higher  
 - BMI : indice de masse corporelle  
 - Smoking : statut tabagique, où 0 indique non et 1 indique oui  
 - AlcoholConsumption : consommation hebdomadaire d'alcool  
