@@ -7,7 +7,7 @@ L'objectif du projet est de prédire à partir de certains attributs si un patie
 Définition des champs du jeu de données : 
 
 - PatientID : identifiant unique attribué à chaque patient  
-- Age: âge des patients  
+- Age : âge des patients  
 - Gender : sexe des patients, où 0 représente un homme et 1 représente une femme  
 - Ethnicity : origine ethnique des patients  
 0 : Caucasian  
